@@ -1,0 +1,23 @@
+{
+  "enableExtraNetworkSidebar": true,
+  "enableHighlight": false,
+  "enableSidebar": true,
+  "enableWebFont": true,
+  "extraNetworkCardSize": 86,
+  "extraNetworkFixedMode": "fixed",
+  "extraNetworkSidebarExpand": true,
+  "extraNetworkSidebarWidth": 340,
+  "i18n": "en_US",
+  "layoutHideFooter": false,
+  "layoutSplitPreview": false,
+  "liteAnimation": false,
+  "logoCustomTitle": "",
+  "logoCustomUrl": "",
+  "logoType": "lobe",
+  "promptEditor": false,
+  "promptTextareaType": "resizable",
+  "sidebarExpand": true,
+  "sidebarFixedMode": "fixed",
+  "sidebarWidth": 280,
+  "svgIcon": true
+}
